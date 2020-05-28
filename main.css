@@ -1,0 +1,51 @@
+/*#main{*/
+
+/*    background-color: #151414;*/
+/*}*/
+#title{
+
+    text-align: center;
+    color: white;
+    padding: 4rem;
+    background-color: #151414;
+    border-radius: 4rem;
+}
+
+#img-div{
+
+    background-color: #c9c1c1;
+    padding: 4rem;
+    margin-bottom: 2rem;
+    color: #171515;
+
+
+
+
+}
+#image{
+
+
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+#tribute-info{
+
+    background-color: #c9c1c1;
+    padding: 4rem;
+    color: #3e2c2c;
+}
+footer{
+
+    color: #c9c1c1;
+    background-color: grey;
+    padding: 2rem;
+    margin-top: 1rem;
+}
